@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComponentesGraficos</string>
+    <string-array name="lista1">
+
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+
+</resources>
